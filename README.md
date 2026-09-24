@@ -46,4 +46,4 @@ I ship small, useful SaaS products for local businesses, and the SEO and marketi
 
 ---
 
-<p align="center"><i>Always testing new stuff. Open to collaborations on SaaS, SEO and web projects.</i></p>
+<p align="center"><i>Always testing new stuff. Open to collaborations on SaaS, SEO and web projects. Say hi!</i></p>
