@@ -27,6 +27,10 @@ I ship small, useful SaaS products for local businesses, and the SEO and marketi
 - **[Monetization Eligibility Checker](https://github.com/maxpaldigi/Monetization-eligibility-checker)**: WordPress plugin that scores your site against 12 Google AdSense eligibility factors before you apply
 - **[Loyalty ROI Calculator](https://github.com/maxpaldigi/loyalty-roi-calculator)**: work out what a loyalty programme is worth to your business
 
+### 🤝 Collaborations
+
+- **[Portugal Admission Guide](https://github.com/Suprimtamang/portugal-admission-guide)** with [@Suprimtamang](https://github.com/Suprimtamang): roadmap, checklist and CRM workspace helping foreign students through Portugal's National Student admission pathway
+
 ### 🛠️ Tech I use
 
 <p>
