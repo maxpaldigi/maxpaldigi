@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="Digital Loyalty Card: Apple &amp; Google Wallet loyalty cards for shops, cafés and restaurants. No app download.">
+<title>Digital Loyalty Card</title>
+<rect x="1" y="1" width="598" height="228" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+<rect x="28" y="28" width="56" height="56" rx="14" fill="#22C55E" fill-opacity="0.12"/>
+<g transform="translate(40 40)" fill="none" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></g>
+<text x="104" y="54" font-family="'Space Grotesk','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F8FAFC">Digital Loyalty Card</text>
+<text x="104" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#22C55E">digitalloyaltycard.io</text>
+<text font-family="'Space Grotesk','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16.5" fill="#94A3B8"><tspan x="28" y="122">Apple &amp; Google Wallet loyalty cards for shops,</tspan><tspan x="28" y="146">cafés and restaurants. No app download.</tspan></text>
+<rect x="28" y="176" width="69" height="26" rx="13" fill="#1E293B"/><text x="63" y="193.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#94A3B8">Laravel</text><rect x="105.19999999999999" y="176" width="115" height="26" rx="13" fill="#1E293B"/><text x="163" y="193.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#94A3B8">Wallet passes</text><rect x="228.0" y="176" width="46" height="26" rx="13" fill="#1E293B"/><text x="251" y="193.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#94A3B8">SaaS</text>
+<g transform="translate(552 32)" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></g>
+</svg>
