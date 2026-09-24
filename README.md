@@ -1,4 +1,4 @@
-<a href="https://deepakpal.com.np"><img src="assets/hero.svg?v=2" width="100%" alt="Max Pal. Founder at Digigurkhas and Byte Media, UK and Portugal. Building SaaS for local businesses with Laravel, React, TypeScript, WordPress and PostgreSQL."></a>
+<a href="https://deepakpal.com.np"><img src="assets/banner.svg" width="100%" alt="Max Pal. Founder at Digigurkhas and Byte Media, UK and Portugal. Building SaaS for local businesses with Laravel, React, TypeScript, WordPress and PostgreSQL."></a>
 
 <p>
   <a href="https://deepakpal.com.np"><img src="https://img.shields.io/badge/deepakpal.com.np-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Website: deepakpal.com.np"></a>
