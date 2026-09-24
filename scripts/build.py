@@ -86,7 +86,7 @@ def card(icon, title, sub, desc, chips):
 def hero():
     lines = [
         ("cmd", "whoami"),
-        ("big", "Deepak Pal"),
+        ("big", "Max Pal"),
         ("out", "Founder @ Digigurkhas &amp; Byte Media · UK / Portugal"),
         ("cmd", "cat focus.txt"),
         ("out", "SaaS for local businesses: wallet loyalty, local SEO, health tracking"),
@@ -111,8 +111,8 @@ def hero():
         delay += 0.35
     cursor_y = y + 12
     height = cursor_y + 40
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="{height}" viewBox="0 0 1200 {height}" role="img" aria-label="Deepak Pal. Founder at Digigurkhas and Byte Media, UK and Portugal. Building SaaS for local businesses with Laravel, React, TypeScript, WordPress and PostgreSQL.">
-<title>Deepak Pal</title>
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="{height}" viewBox="0 0 1200 {height}" role="img" aria-label="Max Pal. Founder at Digigurkhas and Byte Media, UK and Portugal. Building SaaS for local businesses with Laravel, React, TypeScript, WordPress and PostgreSQL.">
+<title>Max Pal</title>
 <style>
 .l{{opacity:0;animation:in .4s ease-out forwards}}
 .c{{animation:blink 1.1s steps(1) infinite {delay:.1f}s;opacity:0}}
@@ -124,7 +124,7 @@ def hero():
 <path d="M1 19a18 18 0 0 1 18-18h1162a18 18 0 0 1 18 18v33H1z" fill="{SURFACE}"/>
 <line x1="1" y1="52" x2="1199" y2="52" stroke="{BORDER}" stroke-width="2"/>
 <circle cx="32" cy="27" r="7" fill="#EF4444"/><circle cx="56" cy="27" r="7" fill="#F59E0B"/><circle cx="80" cy="27" r="7" fill="{ACCENT}"/>
-<text x="600" y="32" text-anchor="middle" font-family="{MONO}" font-size="14" fill="{MUTED}">deepak@digigurkhas: ~</text>
+<text x="600" y="32" text-anchor="middle" font-family="{MONO}" font-size="14" fill="{MUTED}">max@digigurkhas: ~</text>
 {"".join(rows)}
 <g><text x="48" y="{cursor_y}" font-family="{MONO}" font-size="18" fill="{ACCENT}">$</text><rect class="c" x="70" y="{cursor_y - 16}" width="11" height="20" fill="{FG}"/></g>
 </svg>
