@@ -175,7 +175,7 @@ def stats(token):
 
 def main():
     OUT.mkdir(exist_ok=True)
-    (OUT / "hero.svg").write_text(hero())
+    (OUT / "banner.svg").write_text(hero())
     for slug, icon, title, sub, desc, chips in CARDS:
         (OUT / f"card-{slug}.svg").write_text(card(icon, title, sub, desc, chips))
     token = os.environ.get("GITHUB_TOKEN")
