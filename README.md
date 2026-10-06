@@ -4,7 +4,7 @@
   <a href="https://deepakpal.com.np"><img src="https://img.shields.io/badge/deepakpal.com.np-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Website: deepakpal.com.np"></a>
   <a href="https://www.linkedin.com/in/max-pal"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn"></a>
   <a href="mailto:maxpal1234@gmail.com"><img src="https://img.shields.io/badge/Email_me-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=maxpaldigi&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views">
+
 </p>
 
 ## What I build
@@ -35,7 +35,6 @@ Also: [Loyalty ROI Calculator](https://github.com/maxpaldigi/loyalty-roi-calcula
 
 <img src="assets/stats.svg" width="100%" alt="GitHub stats for maxpaldigi, updated daily">
 
-<img src="https://streak-stats.demolab.com?user=maxpaldigi&background=0F172A&border=1E293B&stroke=1E293B&ring=22C55E&fire=22C55E&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=94A3B8&dates=94A3B8&border_radius=16&card_width=1200" width="100%" alt="Contribution streak">
 
 ---
 
